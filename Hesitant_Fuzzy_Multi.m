@@ -2519,18 +2519,18 @@ end
 
 
 
-function edit68_Callback(hObject, eventdata, handles)
-% hObject    handle to edit68 (see GCBO)
+function edit_a11_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_a11 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: get(hObject,'String') returns contents of edit68 as text
-%        str2double(get(hObject,'String')) returns contents of edit68 as a double
+% Hints: get(hObject,'String') returns contents of edit_a11 as text
+%        str2double(get(hObject,'String')) returns contents of edit_a11 as a double
 
 
 % --- Executes during object creation, after setting all properties.
-function edit68_CreateFcn(hObject, eventdata, handles)
-% hObject    handle to edit68 (see GCBO)
+function edit_a11_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_a11 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
 
@@ -2565,18 +2565,18 @@ end
 
 
 
-function edit73_Callback(hObject, eventdata, handles)
-% hObject    handle to edit73 (see GCBO)
+function edit_a31_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_a31 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: get(hObject,'String') returns contents of edit73 as text
-%        str2double(get(hObject,'String')) returns contents of edit73 as a double
+% Hints: get(hObject,'String') returns contents of edit_a31 as text
+%        str2double(get(hObject,'String')) returns contents of edit_a31 as a double
 
 
 % --- Executes during object creation, after setting all properties.
-function edit73_CreateFcn(hObject, eventdata, handles)
-% hObject    handle to edit73 (see GCBO)
+function edit_a31_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_a31 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
 
@@ -2588,18 +2588,18 @@ end
 
 
 
-function edit74_Callback(hObject, eventdata, handles)
-% hObject    handle to edit74 (see GCBO)
+function edit_a41_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_a41 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: get(hObject,'String') returns contents of edit74 as text
-%        str2double(get(hObject,'String')) returns contents of edit74 as a double
+% Hints: get(hObject,'String') returns contents of edit_a41 as text
+%        str2double(get(hObject,'String')) returns contents of edit_a41 as a double
 
 
 % --- Executes during object creation, after setting all properties.
-function edit74_CreateFcn(hObject, eventdata, handles)
-% hObject    handle to edit74 (see GCBO)
+function edit_a41_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_a41 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
 
@@ -2657,18 +2657,18 @@ end
 
 
 
-function edit77_Callback(hObject, eventdata, handles)
-% hObject    handle to edit77 (see GCBO)
+function edit_a32_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_a32 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: get(hObject,'String') returns contents of edit77 as text
-%        str2double(get(hObject,'String')) returns contents of edit77 as a double
+% Hints: get(hObject,'String') returns contents of edit_a32 as text
+%        str2double(get(hObject,'String')) returns contents of edit_a32 as a double
 
 
 % --- Executes during object creation, after setting all properties.
-function edit77_CreateFcn(hObject, eventdata, handles)
-% hObject    handle to edit77 (see GCBO)
+function edit_a32_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_a32 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
 
@@ -2680,18 +2680,18 @@ end
 
 
 
-function edit78_Callback(hObject, eventdata, handles)
-% hObject    handle to edit78 (see GCBO)
+function edit_a42_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_a42 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: get(hObject,'String') returns contents of edit78 as text
-%        str2double(get(hObject,'String')) returns contents of edit78 as a double
+% Hints: get(hObject,'String') returns contents of edit_a42 as text
+%        str2double(get(hObject,'String')) returns contents of edit_a42 as a double
 
 
 % --- Executes during object creation, after setting all properties.
-function edit78_CreateFcn(hObject, eventdata, handles)
-% hObject    handle to edit78 (see GCBO)
+function edit_a42_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_a42 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
 
@@ -2703,18 +2703,18 @@ end
 
 
 
-function edit79_Callback(hObject, eventdata, handles)
-% hObject    handle to edit79 (see GCBO)
+function edit_a13_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_a13 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: get(hObject,'String') returns contents of edit79 as text
-%        str2double(get(hObject,'String')) returns contents of edit79 as a double
+% Hints: get(hObject,'String') returns contents of edit_a13 as text
+%        str2double(get(hObject,'String')) returns contents of edit_a13 as a double
 
 
 % --- Executes during object creation, after setting all properties.
-function edit79_CreateFcn(hObject, eventdata, handles)
-% hObject    handle to edit79 (see GCBO)
+function edit_a13_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_a13 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
 
@@ -2749,18 +2749,18 @@ end
 
 
 
-function edit81_Callback(hObject, eventdata, handles)
-% hObject    handle to edit81 (see GCBO)
+function edit_a33_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_a33 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: get(hObject,'String') returns contents of edit81 as text
-%        str2double(get(hObject,'String')) returns contents of edit81 as a double
+% Hints: get(hObject,'String') returns contents of edit_a33 as text
+%        str2double(get(hObject,'String')) returns contents of edit_a33 as a double
 
 
 % --- Executes during object creation, after setting all properties.
-function edit81_CreateFcn(hObject, eventdata, handles)
-% hObject    handle to edit81 (see GCBO)
+function edit_a33_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_a33 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
 
@@ -2772,18 +2772,18 @@ end
 
 
 
-function edit82_Callback(hObject, eventdata, handles)
-% hObject    handle to edit82 (see GCBO)
+function edit_a43_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_a43 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 
-% Hints: get(hObject,'String') returns contents of edit82 as text
-%        str2double(get(hObject,'String')) returns contents of edit82 as a double
+% Hints: get(hObject,'String') returns contents of edit_a43 as text
+%        str2double(get(hObject,'String')) returns contents of edit_a43 as a double
 
 
 % --- Executes during object creation, after setting all properties.
-function edit82_CreateFcn(hObject, eventdata, handles)
-% hObject    handle to edit82 (see GCBO)
+function edit_a43_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_a43 (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    empty - handles not created until after all CreateFcns called
 
@@ -3938,7 +3938,7 @@ thita_h23=str2num(handles.edit_thita_h23.String);
 disp(thita_h21);
 disp(thita_h22);
 disp(thita_h23);
-% h1=wi(1)*wj(thi_21)/(wi(1)*wj(thi_21)+wi(2)*wj(thi_22)+wi(3)*wj(thi_23));
+
 h2(1)=1-(1-h21(1))^(thita_h21)*(1-h22(1))^thita_h22*(1-h23(1))^thita_h23;
 h2(2)=1-(1-h21(1))^(thita_h21)*(1-h22(1))^thita_h22*(1-h23(2))^thita_h23;
 h2(3)=1-(1-h21(1))^(thita_h21)*(1-h22(2))^thita_h22*(1-h23(1))^thita_h23;
@@ -3957,14 +3957,11 @@ h2(14)=1-(1-h21(2))^(thita_h21)*(1-h22(3))^thita_h22*(1-h23(2))^thita_h23;
 h2(15)=1-(1-h21(2))^(thita_h21)*(1-h22(4))^thita_h22*(1-h23(1))^thita_h23;
 h2(16)=1-(1-h21(2))^(thita_h21)*(1-h22(4))^thita_h22*(1-h23(2))^thita_h23;
 
-% h3=wi(3)*wj(thi_23)/(wi(1)*wj(thi_21)+wi(2)*wj(thi_22)+wi(3)*wj(thi_23));
-
 % disp(h1);
 disp(h2);
 % disp(h3);
 
 % set(handles.edit_h1,'string',h1);
-% set(handles.edit_h2,'string',num2str(h2));
 set(handles.listbox_h2,'string',num2str(h2));
 % set(handles.edit_h3,'string',h3);
 
@@ -3990,3 +3987,767 @@ function listbox_h2_CreateFcn(hObject, eventdata, handles)
 if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
     set(hObject,'BackgroundColor','white');
 end
+
+
+
+function edit139_Callback(hObject, eventdata, handles)
+% hObject    handle to edit139 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit139 as text
+%        str2double(get(hObject,'String')) returns contents of edit139 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit139_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit139 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit140_Callback(hObject, eventdata, handles)
+% hObject    handle to edit140 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit140 as text
+%        str2double(get(hObject,'String')) returns contents of edit140 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit140_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit140 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit141_Callback(hObject, eventdata, handles)
+% hObject    handle to edit141 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit141 as text
+%        str2double(get(hObject,'String')) returns contents of edit141 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit141_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit141 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit142_Callback(hObject, eventdata, handles)
+% hObject    handle to edit142 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit142 as text
+%        str2double(get(hObject,'String')) returns contents of edit142 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit142_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit142 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit143_Callback(hObject, eventdata, handles)
+% hObject    handle to edit143 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit143 as text
+%        str2double(get(hObject,'String')) returns contents of edit143 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit143_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit143 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit144_Callback(hObject, eventdata, handles)
+% hObject    handle to edit144 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit144 as text
+%        str2double(get(hObject,'String')) returns contents of edit144 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit144_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit144 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thita_h11_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h11 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h11 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h11 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thita_h11_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h11 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thita_h12_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h12 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h12 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h12 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thita_h12_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h12 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thita_h13_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h13 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h13 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h13 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thita_h13_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h13 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit148_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h21 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h21 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h21 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit148_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h21 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit149_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h22 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h22 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h22 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit149_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h22 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit150_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h23 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h23 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h23 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit150_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h23 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thita_h31_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h31 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h31 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h31 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thita_h31_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h31 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thita_h32_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h32 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h32 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h32 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thita_h32_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h32 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thita_h33_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h33 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h33 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h33 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thita_h33_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h33 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit154_Callback(hObject, eventdata, handles)
+% hObject    handle to edit154 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit154 as text
+%        str2double(get(hObject,'String')) returns contents of edit154 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit154_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit154 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit155_Callback(hObject, eventdata, handles)
+% hObject    handle to edit155 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit155 as text
+%        str2double(get(hObject,'String')) returns contents of edit155 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit155_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit155 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+% --- Executes on button press in pushbutton_Caculate_thita.
+function pushbutton49_Callback(hObject, eventdata, handles)
+% hObject    handle to pushbutton_Caculate_thita (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+
+% --- Executes on button press in pushbutton_Caculate_h.
+function pushbutton50_Callback(hObject, eventdata, handles)
+% hObject    handle to pushbutton_Caculate_h (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+
+% --- Executes on selection change in listbox_h2.
+function listbox2_Callback(hObject, eventdata, handles)
+% hObject    handle to listbox_h2 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: contents = cellstr(get(hObject,'String')) returns listbox_h2 contents as cell array
+%        contents{get(hObject,'Value')} returns selected item from listbox_h2
+
+
+% --- Executes during object creation, after setting all properties.
+function listbox2_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to listbox_h2 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: listbox controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thita_h41_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h41 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h41 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h41 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thita_h41_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h41 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thita_h42_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h42 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h42 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h42 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thita_h42_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h42 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thita_h43_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h43 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thita_h43 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thita_h43 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thita_h43_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thita_h43 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+% --- Executes on selection change in listbox_h1.
+function listbox_h1_Callback(hObject, eventdata, handles)
+% hObject    handle to listbox_h1 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: contents = cellstr(get(hObject,'String')) returns listbox_h1 contents as cell array
+%        contents{get(hObject,'Value')} returns selected item from listbox_h1
+
+
+% --- Executes during object creation, after setting all properties.
+function listbox_h1_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to listbox_h1 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: listbox controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+% --- Executes on selection change in listbox_h3.
+function listbox_h3_Callback(hObject, eventdata, handles)
+% hObject    handle to listbox_h3 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: contents = cellstr(get(hObject,'String')) returns listbox_h3 contents as cell array
+%        contents{get(hObject,'Value')} returns selected item from listbox_h3
+
+
+% --- Executes during object creation, after setting all properties.
+function listbox_h3_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to listbox_h3 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: listbox controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+% --- Executes on selection change in listbox_h4.
+function listbox_h4_Callback(hObject, eventdata, handles)
+% hObject    handle to listbox_h4 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: contents = cellstr(get(hObject,'String')) returns listbox_h4 contents as cell array
+%        contents{get(hObject,'Value')} returns selected item from listbox_h4
+
+
+% --- Executes during object creation, after setting all properties.
+function listbox_h4_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to listbox_h4 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: listbox controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_s_h1_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_s_h1 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_s_h1 as text
+%        str2double(get(hObject,'String')) returns contents of edit_s_h1 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_s_h1_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_s_h1 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_s_h2_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_s_h2 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_s_h2 as text
+%        str2double(get(hObject,'String')) returns contents of edit_s_h2 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_s_h2_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_s_h2 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_s_h3_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_s_h3 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_s_h3 as text
+%        str2double(get(hObject,'String')) returns contents of edit_s_h3 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_s_h3_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_s_h3 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_s_h4_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_s_h4 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_s_h4 as text
+%        str2double(get(hObject,'String')) returns contents of edit_s_h4 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_s_h4_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_s_h4 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+% --- Executes on button press in pushbutton_Caculate_s.
+function pushbutton_Caculate_s_Callback(hObject, eventdata, handles)
+% hObject    handle to pushbutton_Caculate_s (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+
+
+function edit_thi_h1_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thi_h1 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thi_h1 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thi_h1 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thi_h1_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thi_h1 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thi_h2_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thi_h2 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thi_h2 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thi_h2 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thi_h2_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thi_h2 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thi_h3_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thi_h3 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thi_h3 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thi_h3 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thi_h3_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thi_h3 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+
+function edit_thi_h4_Callback(hObject, eventdata, handles)
+% hObject    handle to edit_thi_h4 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
+
+% Hints: get(hObject,'String') returns contents of edit_thi_h4 as text
+%        str2double(get(hObject,'String')) returns contents of edit_thi_h4 as a double
+
+
+% --- Executes during object creation, after setting all properties.
+function edit_thi_h4_CreateFcn(hObject, eventdata, handles)
+% hObject    handle to edit_thi_h4 (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    empty - handles not created until after all CreateFcns called
+
+% Hint: edit controls usually have a white background on Windows.
+%       See ISPC and COMPUTER.
+if ispc && isequal(get(hObject,'BackgroundColor'), get(0,'defaultUicontrolBackgroundColor'))
+    set(hObject,'BackgroundColor','white');
+end
+
+
+% --- Executes on button press in pushbutton_Caculate_thi.
+function pushbutton_Caculate_thi_Callback(hObject, eventdata, handles)
+% hObject    handle to pushbutton_Caculate_thi (see GCBO)
+% eventdata  reserved - to be defined in a future version of MATLAB
+% handles    structure with handles and user data (see GUIDATA)
