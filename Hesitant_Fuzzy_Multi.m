@@ -120,6 +120,13 @@ wj=str2num(handles.edit_wj.String);
 disp(wi);
 disp(wj);
 
+a11=str2num(handles.edit_a11.String);
+a12=str2num(handles.edit_a12.String);
+a13=str2num(handles.edit_a13.String);
+disp(a11);
+disp(a12);
+disp(a13);
+
 a21=str2num(handles.edit_a21.String);
 a22=str2num(handles.edit_a22.String);
 a23=str2num(handles.edit_a23.String);
@@ -127,11 +134,34 @@ disp(a21);
 disp(a22);
 disp(a23);
 
+a31=str2num(handles.edit_a31.String);
+a32=str2num(handles.edit_a32.String);
+a33=str2num(handles.edit_a33.String);
+disp(a31);
+disp(a32);
+disp(a33);
+
+a41=str2num(handles.edit_a41.String);
+a42=str2num(handles.edit_a42.String);
+a43=str2num(handles.edit_a43.String);
+disp(a41);
+disp(a42);
+disp(a43);
+
 handles.wi=wi;
 handles.wj=wj;
+handles.a11=a11;
+handles.a12=a12;
+handles.a13=a13;
 handles.a21=a21;
 handles.a22=a22;
 handles.a23=a23;
+handles.a31=a31;
+handles.a32=a32;
+handles.a33=a33;
+handles.a41=a41;
+handles.a42=a42;
+handles.a43=a43;
 guidata(hObject, handles);
 
 
@@ -1553,6 +1583,20 @@ set(handles.edit_s_h41,'string',s_h41);
 set(handles.edit_s_h42,'string',s_h42);
 set(handles.edit_s_h43,'string',s_h43);
 
+handles.s_h11=s_h11;
+handles.s_h12=s_h12;
+handles.s_h13=s_h13;
+handles.s_h21=s_h21;
+handles.s_h22=s_h22;
+handles.s_h23=s_h23;
+handles.s_h31=s_h31;
+handles.s_h32=s_h32;
+handles.s_h33=s_h33;
+handles.s_h41=s_h41;
+handles.s_h42=s_h42;
+handles.s_h43=s_h43;
+guidata(hObject, handles);
+
 
 function edit_wi_Callback(hObject, eventdata, handles)
 % hObject    handle to edit_wi (see GCBO)
@@ -1604,8 +1648,33 @@ function pushbutton_thi_h_Callback(hObject, eventdata, handles)
 % hObject    handle to pushbutton_thi_h (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
-msgbox("请手动输入调整大小顺序。");
+msgbox("请手动输入调整大小顺序，数据已传出。");
+thi_11=str2num(handles.edit_thi_11.String);
+thi_12=str2num(handles.edit_thi_12.String);
+thi_13=str2num(handles.edit_thi_13.String);
+thi_21=str2num(handles.edit_thi_21.String);
+thi_22=str2num(handles.edit_thi_22.String);
+thi_23=str2num(handles.edit_thi_23.String);
+thi_31=str2num(handles.edit_thi_31.String);
+thi_32=str2num(handles.edit_thi_32.String);
+thi_33=str2num(handles.edit_thi_33.String);
+thi_41=str2num(handles.edit_thi_41.String);
+thi_42=str2num(handles.edit_thi_42.String);
+thi_43=str2num(handles.edit_thi_43.String);
 
+handles.thi_11=thi_11;
+handles.thi_12=thi_12;
+handles.thi_13=thi_13;
+handles.thi_21=thi_21;
+handles.thi_22=thi_22;
+handles.thi_23=thi_23;
+handles.thi_31=thi_31;
+handles.thi_32=thi_32;
+handles.thi_33=thi_33;
+handles.thi_41=thi_41;
+handles.thi_42=thi_42;
+handles.thi_43=thi_43;
+guidata(hObject, handles);
 
 % --- Executes on button press in pushbutton_Caculate_thita.
 function pushbutton_Caculate_thita_Callback(hObject, eventdata, handles)
@@ -1703,6 +1772,20 @@ disp(thita_h43);
 set(handles.edit_thita_h41,'string',thita_h41);
 set(handles.edit_thita_h42,'string',thita_h42);
 set(handles.edit_thita_h43,'string',thita_h43);
+
+handles.thita_h11=thita_h11;
+handles.thita_h12=thita_h12;
+handles.thita_h13=thita_h13;
+handles.thita_h21=thita_h21;
+handles.thita_h22=thita_h22;
+handles.thita_h23=thita_h23;
+handles.thita_h31=thita_h31;
+handles.thita_h32=thita_h32;
+handles.thita_h33=thita_h33;
+handles.thita_h41=thita_h41;
+handles.thita_h42=thita_h42;
+handles.thita_h43=thita_h43;
+guidata(hObject, handles);
 
 
 % --- Executes on button press in pushbutton_Caculate_h.
@@ -1932,6 +2015,11 @@ set(handles.listbox_h2,'string',num2str(h2));
 set(handles.listbox_h3,'string',num2str(h3));
 set(handles.listbox_h4,'string',num2str(h4));
 
+handles.h1=h1;
+handles.h2=h2;
+handles.h3=h3;
+handles.h4=h4;
+guidata(hObject, handles);
 
 % --- Executes on selection change in listbox_h2.
 function listbox_h2_Callback(hObject, eventdata, handles)
@@ -2634,15 +2722,39 @@ disp(s_h2);
 disp(s_h3);
 disp(s_h4);
 
+set(handles.edit_s_h1,'string',s_h1);
+set(handles.edit_s_h2,'string',s_h2);
+set(handles.edit_s_h3,'string',s_h3);
+set(handles.edit_s_h4,'string',s_h4);
+
 % 存入文件
-% codec,fs,vr,mse,psnr,ssim
-% mp3,
-outfile=handles.outfile;
-newCell_title={'filename',...
-    'filesize','h'};
- 
-newCell_zhi={filename,...
-            filesize,s_h1};
+% xuhao,a11,a12,a13,
+% s(h11),s(h12),s(h13),thi(11),thi(12),thi(13),...
+% thita(11),thita(12),thita(13),h1,s(h1),thi(h1)
+% h1,h2,h3,h4
+outfile="/out/data.csv";
+newCell_title={'xuhao','x1','x2','x3',...
+               's_x1','s_x2','s_x3','thi_x1','thi_x2','thi_x3',...
+               'thita_x1','thita_x2','thita_x3','h','s_h','thi_h'};
+% 第1行           
+a11=handles.a11;
+a12=handles.a12;
+a13=handles.a13;
+s_h11=handles.s_h11;
+s_h12=handles.s_h12;
+s_h13=handles.s_h13;
+thi_11=handles.thi_11;
+thi_12=handles.thi_12;
+thi_13=handles.thi_13;
+thita_h11=handles.thita_h11;
+thita_h12=handles.thita_h12;
+thita_h13=handles.thita_h13;
+h1=handles.h1;
+thi_h1=str2num(handles.edit_thi_h1.String);
+
+newCell_zhi={1,a11,a12,a13,...
+             s_h11,s_h12,s_h13,thi_11,thi_12,thi_13,...
+             thita_h11,thita_h12,thita_h13,h1,s_h1,thi_h1};
 disp(newCell_zhi);
 newTable = cell2table(newCell_zhi);
 newTable.Properties.VariableNames=newCell_title;
@@ -2651,13 +2763,94 @@ nasdaq.Properties.VariableNames=newCell_title;
  
 newNasdaq =[nasdaq;newTable];  
 writetable(newNasdaq,outfile);
+
+% 第2行           
+a21=handles.a21;
+a22=handles.a22;
+a23=handles.a23;
+s_h21=handles.s_h21;
+s_h22=handles.s_h22;
+s_h23=handles.s_h23;
+thi_21=handles.thi_21;
+thi_22=handles.thi_22;
+thi_23=handles.thi_23;
+thita_h21=handles.thita_h21;
+thita_h22=handles.thita_h22;
+thita_h23=handles.thita_h23;
+h2=handles.h2;
+thi_h2=str2num(handles.edit_thi_h2.String);
+
+newCell_zhi={2,a21,a22,a23,...
+             s_h21,s_h22,s_h23,thi_21,thi_22,thi_23,...
+             thita_h21,thita_h22,thita_h23,h2,s_h2,thi_h2};
+disp(newCell_zhi);
+newTable = cell2table(newCell_zhi);
+newTable.Properties.VariableNames=newCell_title;
+nasdaq=readtable(outfile);
+nasdaq.Properties.VariableNames=newCell_title;
+ 
+newNasdaq =[nasdaq;newTable];  
+writetable(newNasdaq,outfile);
+
+% 第3行           
+a31=handles.a31;
+a32=handles.a32;
+a33=handles.a33;
+s_h31=handles.s_h31;
+s_h32=handles.s_h32;
+s_h33=handles.s_h33;
+thi_31=handles.thi_31;
+thi_32=handles.thi_32;
+thi_33=handles.thi_33;
+thita_h31=handles.thita_h31;
+thita_h32=handles.thita_h32;
+thita_h33=handles.thita_h33;
+h3=handles.h3;
+thi_h3=str2num(handles.edit_thi_h3.String);
+
+newCell_zhi={3,a31,a32,a33,...
+             s_h31,s_h32,s_h33,thi_31,thi_32,thi_33,...
+             thita_h31,thita_h32,thita_h33,h3,s_h3,thi_h3};
+disp(newCell_zhi);
+newTable = cell2table(newCell_zhi);
+newTable.Properties.VariableNames=newCell_title;
+nasdaq=readtable(outfile);
+nasdaq.Properties.VariableNames=newCell_title;
+ 
+newNasdaq =[nasdaq;newTable];  
+writetable(newNasdaq,outfile);
+
+% 第4行           
+a41=handles.a41;
+a42=handles.a42;
+a43=handles.a43;
+s_h41=handles.s_h41;
+s_h42=handles.s_h42;
+s_h43=handles.s_h43;
+thi_41=handles.thi_41;
+thi_42=handles.thi_42;
+thi_43=handles.thi_43;
+thita_h41=handles.thita_h41;
+thita_h42=handles.thita_h42;
+thita_h43=handles.thita_h43;
+h4=handles.h4;
+thi_h4=str2num(handles.edit_thi_h4.String);
+
+newCell_zhi={4,a41,a42,a43,...
+             s_h41,s_h42,s_h43,thi_41,thi_42,thi_43,...
+             thita_h41,thita_h42,thita_h43,h4,s_h4,thi_h4};
+disp(newCell_zhi);
+newTable = cell2table(newCell_zhi);
+newTable.Properties.VariableNames=newCell_title;
+nasdaq=readtable(outfile);
+nasdaq.Properties.VariableNames=newCell_title;
+ 
+newNasdaq =[nasdaq;newTable];  
+writetable(newNasdaq,outfile);
+
 % 写入完成。
 disp('数据写入完成。');
 
-set(handles.edit_s_h1,'string',s_h1);
-set(handles.edit_s_h2,'string',s_h2);
-set(handles.edit_s_h3,'string',s_h3);
-set(handles.edit_s_h4,'string',s_h4);
 
 
 function edit_thi_h1_Callback(hObject, eventdata, handles)
